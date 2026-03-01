@@ -1,0 +1,5 @@
+node_modules
+# Keep environment variabees out of version control
+dist/
+/src/generated/prisma
+config.bat
